@@ -37,5 +37,5 @@ const repoCount = 50
  console.log(gameName.split(`-`)); // The documentation Link for Split -: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split 
  
  
- 
+ // NOTE -: Learn about the string methods from the google page through (inspect) option , read about all the string methods through (js mdm) website 
  
