@@ -33,6 +33,6 @@ chai()
 
 //const addTwo = (num1, num2) => num1 + num2 // Implicit return statement
 //const addTwo = (num1, num2) => (num1 + num2) // Another way of writing -: no need to write return keyword here, just need to wrap the values inside the small brackets()
-const addTwo = (num1, num2) => { (username: "Devansh") } // way to return the object using the arrow function
+const addTwo = (num1, num2) => ({username: "Devansh"}) // way to return the object using the arrow function
 console.log(addTwo(3,4));
 
